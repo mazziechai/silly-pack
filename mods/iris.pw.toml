@@ -11,3 +11,8 @@ hash = "2420090afb4c08cc82614c26b82c6f3958f06ad8"
 [update.modrinth]
 mod-id = "YL57xq9U"
 version = "9YEwbzW6"
+
+[option]
+optional = true
+default = false
+description = "Shaders. Requires you to add your own shaders, performance may vary (but it takes power)"

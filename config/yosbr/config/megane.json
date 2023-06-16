@@ -1,0 +1,44 @@
+{
+    "configVersion": 3,
+    "inventory": {
+        "enabled": true,
+        "itemCount": true,
+        "nbt": false,
+        "maxWidth": 9,
+        "maxHeight": 3,
+        "blacklist": []
+    },
+    "entityInventory": {
+        "enabled": true,
+        "itemCount": true,
+        "nbt": false,
+        "maxWidth": 9,
+        "maxHeight": 3,
+        "blacklist": []
+    },
+    "fluid": {
+        "enabled": true,
+        "expandWhenSneak": false,
+        "colors": {
+            "megane:default": 855385,
+            "minecraft:lava": 13916690,
+            "minecraft:water": 4159204
+        },
+        "blacklist": []
+    },
+    "progress": {
+        "enabled": true,
+        "showWhenZero": false,
+        "blacklist": []
+    },
+    "effect": {
+        "enabled": true,
+        "level": true,
+        "roman": false,
+        "hidden": false,
+        "blacklist": []
+    },
+    "catchServerErrors": true,
+    "spawnEgg": true,
+    "playerHead": true
+}
