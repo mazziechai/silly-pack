@@ -5,6 +5,14 @@ file = "config/isxander-main-menu-credits.json"
 hash = "a49b2be9b855a3a20d7dadc9d98a1f6737ad444e5ddd59fcbb3530e47358cc36"
 
 [[files]]
+file = "config/styled-chat.json"
+hash = "5d8a452d1e6863576e7451c89c64464720056bded82dd0ee9301cc60aca89189"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "b89f01b4931eff9d39ffa17bbe88aff9a691b6de06065287d97dc27f1ae6cfd3"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "bcff5fe5fbe3c3fd0b886022f23eec38c8810c550effe9b7350c9b24ac65b395"
 
