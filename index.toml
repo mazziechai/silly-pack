@@ -90,11 +90,6 @@ hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
 
 [[files]]
-file = "mods/arch-ex.pw.toml"
-hash = "2bbf01873718fc8c559df7a6488bc0b1803f431758624b0bc257914bee6d0365"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
