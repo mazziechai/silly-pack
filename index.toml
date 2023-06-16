@@ -169,16 +169,6 @@ hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
 
 [[files]]
-file = "mods/carpet-fixes.pw.toml"
-hash = "25eb272f5f04290914e0b4c7370cf0ee059ee11888c43b8fd2805aaafecfa39c"
-metafile = true
-
-[[files]]
-file = "mods/carpet.pw.toml"
-hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "7c49c8e6fd596ed9aeacca9eb10e5c981250d200ccb8fc72ce1c9123a9635301"
 metafile = true
@@ -404,8 +394,8 @@ hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+file = "mods/mouse-wheelie.pw.toml"
+hash = "7629f7b9bc1b04f215a4bb9e6739ba03995f12efe8a810151a152ab9f1516866"
 metafile = true
 
 [[files]]
@@ -524,8 +514,8 @@ hash = "054693e37282d6fe3c49461adfb8412d4dec5efdd757a7af6b61fe7506b04f4e"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "bf0b6a47818b8263001a8dc87fe3a07ba69a6db47206e221a4c3a0deb35f1cfa"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "7a0617ab787d563878cb887499cadaa905f1ea8e577a16740f9a632a0f2e77c0"
 metafile = true
 
 [[files]]
