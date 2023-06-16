@@ -205,6 +205,11 @@ hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "dc26c10167d20811eca55fb297691759d59880a835b22dfe96a315be25487b66"
+metafile = true
+
+[[files]]
 file = "mods/dawn.pw.toml"
 hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
 metafile = true
