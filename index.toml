@@ -69,10 +69,6 @@ file = "config/yosbr/config/waila.json"
 hash = "1da628f2cffcf90b08f8196a168796f712681e7749035edfddac0f420f3b7ee9"
 
 [[files]]
-file = "config/yosbr/servers.dat"
-hash = "03aa33f149e1b499445b5aaf28555a4a7116515f3cdc27c2e97df1e7fc3083cb"
-
-[[files]]
 file = "mods/adorn.pw.toml"
 hash = "0aa7e85b6c0cf8cc425a37350306f62b6dd119b3f384132ff3aa2e1141969251"
 metafile = true
