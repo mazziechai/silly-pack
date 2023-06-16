@@ -273,6 +273,11 @@ hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "98f5576580a387f107258777640b76ec45096b662d22c75821ff3510a1a188d4"
+metafile = true
+
+[[files]]
 file = "mods/fabric-chisel.pw.toml"
 hash = "0e48c6bd353cf8b4e1bda95e86a2b063d6b625c8100e55e4e7896310cff9e734"
 metafile = true
@@ -315,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+metafile = true
+
+[[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "f9a4fc63a5e7d097f223434604abfd372e4b0381be180bc48136fee3b6e6b190"
 metafile = true
 
 [[files]]
@@ -515,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/spectrum.pw.toml"
 hash = "4fd644da1e87241f8d66c5a6ce5af912021c13e5b002a34d9f4253bcf93749b6"
+metafile = true
+
+[[files]]
+file = "mods/stack-to-nearby-chests.pw.toml"
+hash = "97af97e5abfbeed6d86a976493876bf71411992529ec67eec83166dbc4a99c71"
 metafile = true
 
 [[files]]
