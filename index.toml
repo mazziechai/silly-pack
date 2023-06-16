@@ -220,6 +220,11 @@ hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "28b69512a47fa5a0b35024d605541ef5e1b6c50986b55770d471d442c845b96c"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
