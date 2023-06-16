@@ -1,0 +1,16 @@
+name = "silly pack :3"
+author = "nano"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7cea653e919991d459059dc79731289bf716cb553c5c3240bc6f242c885657f1"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.19.1"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]
