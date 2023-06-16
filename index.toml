@@ -5,10 +5,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "a49b2be9b855a3a20d7dadc9d98a1f6737ad444e5ddd59fcbb3530e47358cc36"
 
 [[files]]
-file = "config/yosbr/config/bclib/client.json"
-hash = "475b6b023aaed34c8710f8986b0d7161a89d0b5cdb14b1f38fbdaf114fc7ec94"
-
-[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "bcff5fe5fbe3c3fd0b886022f23eec38c8810c550effe9b7350c9b24ac65b395"
 
