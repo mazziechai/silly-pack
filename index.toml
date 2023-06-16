@@ -13,12 +13,48 @@ file = "config/yosbr/config/capes.json5"
 hash = "5c7e4c05fa6de172b27283340be18b695f9018c40eaecc3bb9e4eac8f2622bb7"
 
 [[files]]
-file = "config/yosbr/config/cem.conf"
-hash = "a2b5f8259ee4c6bc633968bfb5ed70afeed86ebc1dd4173ae6473fee758ac466"
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
 
 [[files]]
-file = "config/yosbr/config/citresewn.json"
-hash = "7b0cf15bd18cbfabd69a28ad2f02d0a0235532a31041ed3b400c7121333164f8"
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "6ef9e4a1132e7aeab97f6829893124078b95be3c9a5b247754c2ccc9deb423ce"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "2003046a5f2f95b4be5c502a095577628af4a00a88a0b22a747411abbf9fb98d"
+
+[[files]]
+file = "config/yosbr/config/fastload.properties"
+hash = "4287db9b430908cbc0290b3e797e8966546ddef075fb3195475b25b7174328ec"
+
+[[files]]
+file = "config/yosbr/config/fastquit-config.txt"
+hash = "05505556b1ad2b9bf117e54b6e1cbee7c3da914f587c3f24454db14154f7a105"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "b71e0073773f58bbc9e70164ebcb08badf241867a5264dd0ec0eefa365b99ff1"
+
+[[files]]
+file = "config/yosbr/config/lambdabettergrass.toml"
+hash = "676e543ef2819342063424ea8be3743497fef2fbb7dcc48bb849130065ee89c9"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "faa06ff0e7c4c7f260ad916e2054258e50db16f8e838ecd45df4fe19e6af8bde"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "13dd58487b25d6edb5dbd2bd01a305dd2f5a3039a58304dc786bd2910265db9a"
+
+[[files]]
+file = "config/yosbr/config/smoothboot.json"
+hash = "e4ba7b9a9631841b9a5506640b13847e94fd38c0aa9a5d7363281f9d6e5eb184"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "de48c66e10afe8a7ccc36cdf198ca1fb03516d90b9b8c552113176689e81ffd0"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -77,12 +113,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
+hash = "6285b78668f2dc7967e3cb1e7bc49bbe310b913a7d3d55d33579c2b57a02a7d2"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
+hash = "83e62e0608fea20d31b861159f7413183e5ded7168cc4c6f5c6e746fc90f4828"
 metafile = true
 
 [[files]]
@@ -138,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
 
 [[files]]
