@@ -318,6 +318,11 @@ hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
+file = "mods/freedomofinsomnia.pw.toml"
+hash = "26df71034e8d6ec6b0ac66482dfe431f06b110615b782b48d9f6bf69adf3f111"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
@@ -348,6 +353,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "943432a0cef972de0e65eb7fa21634100f98de17b3f644b7ff8a8428ab9d17c0"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "d4ceae4891cc7bf493d045515a67c6894058e0ed39a8bfc7788cf7d288724a97"
 metafile = true
@@ -375,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "1f1435768beb36acf48e3a0f385a4423f2ee3d43ef42d7de138bd3a39b2559a2"
 metafile = true
 
 [[files]]
@@ -458,6 +473,11 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
+file = "mods/pack-it-up.pw.toml"
+hash = "e0bec10a85e3ace6fbe070017887a10b14e7a21266d201e41f839ea1869bbbb8"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
@@ -525,11 +545,6 @@ metafile = true
 [[files]]
 file = "mods/spectrum.pw.toml"
 hash = "4fd644da1e87241f8d66c5a6ce5af912021c13e5b002a34d9f4253bcf93749b6"
-metafile = true
-
-[[files]]
-file = "mods/stack-to-nearby-chests.pw.toml"
-hash = "97af97e5abfbeed6d86a976493876bf71411992529ec67eec83166dbc4a99c71"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Freedom of Insomnia"
+filename = "freedomofinsomnia-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/whQNiSQb/versions/v1.2.0/freedomofinsomnia-1.2.0.jar"
+hash-format = "sha1"
+hash = "c133444675deeb63a854fddb297559c9527967c5"
+
+[update]
+[update.modrinth]
+mod-id = "whQNiSQb"
+version = "hTksPU3N"
