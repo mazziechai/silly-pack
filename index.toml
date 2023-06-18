@@ -213,6 +213,16 @@ hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "f149d011c5cd4f30da32a4c06f4e24a7b2f532f6cbae5f11a77609032c7174ec"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "0af30f0d9c044d979557fdb270ec014ceef2b5e37fe0b2c1c58aea9275b557c3"
+metafile = true
+
+[[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "dc26c10167d20811eca55fb297691759d59880a835b22dfe96a315be25487b66"
 metafile = true
@@ -245,21 +255,6 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "8f7e061bcc172caeaf207c072cb4fe91982db1f193a2490b8d4cd0d0247c9649"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "34cfd4a1ee8dda9c94dc45f6c70686cee5c8287099a261e913d4223750ffe53c"
-metafile = true
-
-[[files]]
-file = "mods/emicompat.pw.toml"
-hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
 metafile = true
 
 [[files]]
@@ -403,6 +398,26 @@ hash = "afdc2fafab3adf523bd090b86a2216828e1d0171b69d8bd835ec050fd9853ce4"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
+hash = "1557c20320ae87140a6fe1d07f9e9500f0e2bfba31185743c46c8a8a5ae176c5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "b46bb1cca929a49da6fcf7e6ac246b8e8c4f0518ad201a9b8d376a44b6bc3bb8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs-oh-the-biomes-youll-go.pw.toml"
+hash = "4305d1e98a1799548ab85cacb2e746793c13983b0c97e692979ab673d6a7a2dd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "503727004960860c7b076f1895afd9fb7735cd7fb8eedf2a4554c351808a289e"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
@@ -510,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "21ae5782c5657fbdc90aa42f3d1cfe76168fe107d66f207ec210dc505c096f7b"
 metafile = true
 
 [[files]]
