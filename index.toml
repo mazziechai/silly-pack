@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "0dc7f20b4a046eafd543d4ed0a998eed526e0883c4e14edbdf071c46bbe19a95"
+hash = "6c7f8d3241757968acd939d8c61e059280079bf197249a0afb59b25d0320205a"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "208b6e7574b7a5fee941b90257e34cb6a4ddbb162ee16ff475d030e39fd5e042"
+hash = "79469cba3bc4605e4c2ffa4abe5c65bb8bc0ba69361cbc16c6d08bc61e81ad38"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "0af30f0d9c044d979557fdb270ec014ceef2b5e37fe0b2c1c58aea9275b557c3"
+hash = "d6d671af2e1ece15222a1e91a51b9b4d4c4b74f6092c7ed21d5b6eb3f6afc540"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "49431809d2d2402fb157fd87413e28da5484cf5ff3d9aeae00f169500b162134"
+hash = "ba49fca0669cf500936fee4fd6b504cba8ad4f919fb41bac202fe6597ab5ee46"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "3850cf278659b33e0629f4dbe21b01b6d9174947df542b7ed618c86f3a74c7d9"
+hash = "7633f2b06ec5fa608b6293978d6781efa713e0a497a3214174e98f935408c3dd"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "bf69a7d3a8b2f983b937a166df751628caf13d6ff8f83afbcce8eb96c6615a6e"
+hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "3b3f8dad7310746ff9a80092827faf48d284121c54399504be46c0da9d9ca508"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "acf72279b763296d70a3e0c4e07974207055489c91b029fd054aa835d0502554"
+hash = "c6e97a38e14ef59abb60ca3b8e07bdbc043b8221cb022c48e7fcf8c4e97d9da6"
 metafile = true
 
 [[files]]
@@ -619,12 +619,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7a0617ab787d563878cb887499cadaa905f1ea8e577a16740f9a632a0f2e77c0"
+hash = "511fb7b3ea24222e7bd34e07cc7696cc206b96ffb32a484a6bdb5ac87c97c4ff"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "92fabf6009485130edf43bd6dbef2b5bb093d6b90c386f8a2fb3cac12b785d38"
+hash = "35334111a08c82e909d4cee54a974040b3fb526d30021a33fe2c70d1b5239025"
 metafile = true
 
 [[files]]
