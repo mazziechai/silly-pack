@@ -1,0 +1,13 @@
+name = "le transgenre femme autiste"
+author = "nano"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "85c13c066cd7da8ac1da4202da222e8059ec2738a27b34e8ba09032cd3fb9605"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.21.0"
