@@ -13,6 +13,14 @@ file = "config/quilt-loader-overrides.json"
 hash = "046d7c779cd4bb987b3dc15102da646a75947869533a1b0356dd543a55ed51c3"
 
 [[files]]
+file = "config/styled-chat.json"
+hash = "b867f12dd084b860ba1c3d4ad8443225d70ae263091dcc21c76626ce91fd3352"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "b89f01b4931eff9d39ffa17bbe88aff9a691b6de06065287d97dc27f1ae6cfd3"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "d16ef4b4dd9d1cfee220332e0246840ca3893a7c0cde99a299f717b63bd8dc2a"
 
@@ -245,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
-metafile = true
-
-[[files]]
-file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
