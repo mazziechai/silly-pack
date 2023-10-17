@@ -111,6 +111,11 @@ hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "6d52f489c0129b5246a8382405fbdd6511b78b66f51d6a16a735dae33278babd"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "ce1fe1e69721bf56e277be993505956c88c3036e8d826a85eb83d9a3cf8305aa"
 metafile = true
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "542d5d1db4e45805a6f52be19c7ec664d7d2c34c2eed9fd53b42bc614815decb"
 metafile = true
 
 [[files]]
@@ -418,11 +428,6 @@ metafile = true
 [[files]]
 file = "mods/numeral-ping.pw.toml"
 hash = "302fd17aa449bfa848e2460ebd01dfb2862c815bd9403548f57155b7dde47f9b"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "69af36e0a1e29e69ccecf4379845a5b25f2a00b9b0c2209d24437a3bac7cf9d0"
 metafile = true
 
 [[files]]
