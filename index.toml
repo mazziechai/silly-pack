@@ -201,6 +201,11 @@ hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
 metafile = true
@@ -356,6 +361,11 @@ hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "c5689e1648103088ba9f040b41a6345742079860119a946b69c5d24a2530a3b6"
+metafile = true
+
+[[files]]
 file = "mods/modern-dynamics.pw.toml"
 hash = "05375196fd872971a01edda09dad35f671de80df363ee68a6abd96557b62e337"
 metafile = true
@@ -403,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/numeral-ping.pw.toml"
 hash = "302fd17aa449bfa848e2460ebd01dfb2862c815bd9403548f57155b7dde47f9b"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "69af36e0a1e29e69ccecf4379845a5b25f2a00b9b0c2209d24437a3bac7cf9d0"
 metafile = true
 
 [[files]]
