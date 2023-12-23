@@ -1,0 +1,37 @@
+{
+  "CONFIG_VERSION_DONT_TOUCH_THIS": 1,
+  "allowByDefault": true, // Enables player commands by default
+  "defaultPrefix": "", // Default prefix of nickname
+  "maxLength": 32, // Max length (without formatting) of the nickname, set to 0 to disable it 
+  "changeDisplayName": true, // Changes player's display name
+  "changePlayerListName": false, // Changes nickname in player list (This option will be incompatible with some mods, use placeholder instead when possible)
+  "allowLegacyFormatting": true, // Allows usage of legacy text format in nicknames (&X)
+  "defaultEnabledFormatting": {
+    "dark_red": true,
+    "underline": true,
+    "yellow": true,
+    "italic": true,
+    "dark_blue": true,
+    "dark_purple": true,
+    "gold": true,
+    "red": true,
+    "aqua": true,
+    "gray": true,
+    "light_purple": true,
+    "white": true,
+    "pos": true,
+    "dark_gray": true,
+    "spoiler": true,
+    "strikethrough": true,
+    "st": true,
+    "b": true,
+    "item": true,
+    "green": true,
+    "dark_green": true,
+    "black": true,
+    "i": true,
+    "bold": true,
+    "blue": true,
+    "dark_aqua": true
+  }
+}
