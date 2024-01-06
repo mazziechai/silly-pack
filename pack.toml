@@ -1,0 +1,13 @@
+name = "nanomon"
+author = "nano"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "26a66e3608804aa81f262e004819d841dcbbda7fedde55524a1da22d9bb1a1ef"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.1"

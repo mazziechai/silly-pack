@@ -1,0 +1,14 @@
+{
+  "allowMovement": {
+    "io.github.bumblesoftware.fastload.client.BuildingTerrainScreen": true,
+    "net.minecraft.class_433": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "com.cobblemon.mod.common.client.gui.battle.BattleGUI": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true
+  },
+  "hideBackground": {
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true
+  }
+}

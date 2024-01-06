@@ -1,0 +1,2329 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
+hash = "801b8ce30ed90f757f3da73e792910c8625ca05e719d0922044ca8217f624a6c"
+
+[[files]]
+file = "config/bedrockify/bedrockifyClient.json"
+hash = "8c7c2a61e679943f18c5640e9bbcf7842c532920168d3ea0604a6b8b743c835d"
+
+[[files]]
+file = "config/bedrockify/bedrockifyCommon.json"
+hash = "74c1054db151e60b9522ff7e6f71f251d5500de92b8701f2a57ab3f5d6b2cd12"
+
+[[files]]
+file = "config/bedrockify/bedrockifyMixins.json"
+hash = "c8552ac55284532eab049c2a7bce4cbc345c74e2fee38e62b20a748743e3a25b"
+
+[[files]]
+file = "config/cobblemonextras/config.json"
+hash = "986248952e3c4bce873dbcc247a70e82b1544de8db3509c603a493e82698ef0d"
+
+[[files]]
+file = "config/fancymenu/animations/cm_lapras/animation.properties"
+hash = "c440cc76083d58995711f07f2823e83ad4f56ea40720c0a4cab0fd1836947dea"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "d940c771c2901b04296abf9e450bd4775d4d4ba2a4c080422e3efc7d2ab0ec69"
+
+[[files]]
+file = "config/fancymenu/credits.txt"
+hash = "f8fd6c170b1cc0afe8cdd6beadee1187713798158be253fd0b10edfd04c79d03"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "bbef596bf9d7abdd49c42f608876af36d55d94a1f60f378b3ab81f462882870d"
+
+[[files]]
+file = "config/fancymenu/customization/cm_lapras_official.txt"
+hash = "1d53213149adaf83c626ae95d13b1f2c6239e3dc6ce0d5d24be228ed6c6c45d1"
+
+[[files]]
+file = "config/fancymenu/customization/cm_multiplayer.txt"
+hash = "4f2267550d8aca00eb644c074545fc706556290d7b0909a214d8a09614099216"
+
+[[files]]
+file = "config/fancymenu/extensions/fmaudio/config.cfg"
+hash = "f3e260206c13bf58788b0572f453f95a3b7c67066dbf85f1a1118c1126d11d62"
+
+[[files]]
+file = "config/fancymenu/extensions/fmaudio/locals/en_us.local"
+hash = "6a2de605aaf07a8f635d9df3b589ff2162fbef2f26eb73dbd17d894c0d261349"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "8b4f11f73494d0860e937fdf14c14aba17aa79458b8136899c452c25f124d473"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "b107d1639c336295f844500db9d79d25bfa96acdf6605cc5188bf2d74b90fe26"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/10.png"
+hash = "faa62dd442e0a5c8fea29311f87de1e6820f3af72903e239dd229f557f0795bb"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/11.png"
+hash = "01244c379a835fdedfe5f89f27c78d1bd6f2dca7cbd831aaf70d08ea439fba4c"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/12.png"
+hash = "ec3c31e826cae385544cb310ef1f470a0db79b0e7dffb15f22be610a079bc799"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/13.png"
+hash = "d7997716164edb4706794f0122a3d10598af593eac31ca0bde43bfe9a72e6c5d"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/14.png"
+hash = "20c12c91e16bf88eba8b8af6f480a17273b4ee6a939af5fcb51206eb099a278c"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/15.png"
+hash = "e4844092d209fc03e25ab0b61a0f7f3ac1cd1c53d7a6b8e7b47c8a3995a07677"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/16.png"
+hash = "dee5c49555af538ff92e88fe61050c83b34692e8d2fdbf2612bd7c3c366e924f"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/17.png"
+hash = "451fc2bdee2243cdfae161d5c777c2eca428348f046cd9308928a4e4603792f3"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/18.png"
+hash = "883b016d69fa4d77c768e209c65e1c0c5044b697acbed2287a96c7f0470a38dd"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/19.png"
+hash = "3e3bde30a7560a9d71e218a364e8f0210ff9c87664c14d741d8da16cf7443a54"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/20.png"
+hash = "d58428244b212815b481002fd136095cbe30c2a3631e3373cff86382082f1ec4"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/21.png"
+hash = "2fa09aee96ecac2d58794139860dfe040bbcc18cf64110428963b40b13e92904"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/22.png"
+hash = "99f4e4e29da8db653eb646a608febae91efd472f26e2ce089cc33feb1129c3dc"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/23.png"
+hash = "bb087d4196bd9c509375909f215abe6b1de281f7ff9411e64fa4190a4e475f9a"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/images/24.png"
+hash = "db061a50c349037add4e3672f42b2c8cb3944ff3f343604714365b68545e323c"
+
+[[files]]
+file = "config/fancymenu/slideshows/cm_1_3/properties.txt"
+hash = "f9f1c395c400b1f9359df2b32ac10a8f60a791daf8b4af814943829b8bcf07a6"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "07b6c9f612303939efa9f282ff0c1e90f4f027136397fca436d2959ca45be1b2"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "d7cf71d3b90be3ceaba6c136a03f5590e08965b047669cb175d1249e61cb7ac4"
+
+[[files]]
+file = "config/yosbr/config/advancementinfo.json5"
+hash = "82fb3f9fd7931ded27c4c0cc78b86bed8a82e2d17b587f26f3a094a8589e13e6"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "be15541e82dac1abef9651a133dcce2a5efb31913d05d1bb0a5e58fbd1001691"
+
+[[files]]
+file = "config/yosbr/config/authme.json5"
+hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
+
+[[files]]
+file = "config/yosbr/config/balm-common.out.toml"
+hash = "4af862cd0a1c7c379c40c110d5ddea00e211dec005fb09dcee1bfa490b3682b0"
+
+[[files]]
+file = "config/yosbr/config/balm-common.toml"
+hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
+
+[[files]]
+file = "config/yosbr/config/bebooks/config.properties"
+hash = "ad937ed0c42866e2afa35bbe41d87f3e0fb32bfe397001092908f14d9a2e3ebf"
+
+[[files]]
+file = "config/yosbr/config/bebooks/enchantment_data.json"
+hash = "050344e8e9f46726be412134f0f7888c8a20792009184e8b8118f9ac0e570199"
+
+[[files]]
+file = "config/yosbr/config/betterpingdisplay.json"
+hash = "b6ac6dcb805a7c126a17400ad2c66a6e582cfb6d9585c1ccac9f9d4cbf9e7c3b"
+
+[[files]]
+file = "config/yosbr/config/betterthirdperson.json5"
+hash = "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
+
+[[files]]
+file = "config/yosbr/config/bwncr.toml"
+hash = "b35a981348a11e9ef2e73e87530e4f97d2feb7e3e6df50af897159825fa5a9ff"
+
+[[files]]
+file = "config/yosbr/config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/yosbr/config/cavedust.json"
+hash = "de84c6c3f138ecb4faeb7a0d707475ba73b17f6e181b5878c526eae8409da190"
+
+[[files]]
+file = "config/yosbr/config/cleardespawn.toml"
+hash = "d2330ec90f55427e4e995b971ab7799200e115fcf3d9e8d63000c67f04e6a13a"
+
+[[files]]
+file = "config/yosbr/config/cobblemon/main.json"
+hash = "d47b6e22bca1ef21f31c238bacc1dea2fb963b2a0e7e5dc7bbec1645b085467d"
+
+[[files]]
+file = "config/yosbr/config/collective.json5"
+hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
+
+[[files]]
+file = "config/yosbr/config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/yosbr/config/craftingtweaks-common.toml"
+hash = "4af862cd0a1c7c379c40c110d5ddea00e211dec005fb09dcee1bfa490b3682b0"
+
+[[files]]
+file = "config/yosbr/config/craftingtweaks.toml"
+hash = "8830d327f96393c7952f119a69679025a5f1f21cffa278356503021d55d861b2"
+
+[[files]]
+file = "config/yosbr/config/crowdin.txt"
+hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
+
+[[files]]
+file = "config/yosbr/config/cull-less-leaves.json"
+hash = "fb80ef9b18b13e2c34f7715be7c6ce86ff255480f01cf57f32f8b02fa28692dd"
+
+[[files]]
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "fc976b7a74855e2e4a1c4659538b1d5b26a62a9d4133784a4ef3774f36f72608"
+
+[[files]]
+file = "config/yosbr/config/dynamiccrosshair.json5"
+hash = "d8085458ac37eb770893c56a22e27963b72a8a56f1821390c6f8ed19b51c5d20"
+
+[[files]]
+file = "config/yosbr/config/enchdesc.json"
+hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
+
+[[files]]
+file = "config/yosbr/config/enhanced_attack_indicator.json"
+hash = "a465ac9fd343ed2d2454a2c8488f8812e6742e434bff7e98d1432797fc6c5ea4"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "7b2f879f2c7386abe6a508a6e01f7ef23e8d9fed1147b3d09f1feeeb26d2ff31"
+
+[[files]]
+file = "config/yosbr/config/fabric/indigo-renderer.properties"
+hash = "5cdad40a30b5dce0d7b67d5b9050075067878bd3f1b40a0c8eacf9f6b7ab3281"
+
+[[files]]
+file = "config/yosbr/config/fallingleaves.json"
+hash = "a7945b429af063d407f255c31053c3cfea43897ae8bee9c488c5b85b3a150084"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+
+[[files]]
+file = "config/yosbr/config/feytweaks.json"
+hash = "411cd86e40a4d7853048a3fa275e0e69ac08e28f42a00c26d8bca34efe73d7e4"
+
+[[files]]
+file = "config/yosbr/config/forgeconfigapiport.toml"
+hash = "2157c39db12b86d6a3587f694f30968a6b4f9b6512195dee61f8c79ce622893b"
+
+[[files]]
+file = "config/yosbr/config/highlighter-common.toml"
+hash = "12b0a6cb4bbdbd742dd481e288f3be1415ab73bd79e0f66c5ec97dc730ae3d91"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
+
+[[files]]
+file = "config/yosbr/config/indium-renderer.properties"
+hash = "eeac020fe32cfc2500c5353d05188bb0e245b099702669a529151c1483f518ea"
+
+[[files]]
+file = "config/yosbr/config/invmove.json"
+hash = "f07273670fb6fbd2012d7a63e2453826f00e42dd82efb3ea82a4d81894f3b410"
+
+[[files]]
+file = "config/yosbr/config/invmove/unrecognized.json"
+hash = "6b925fe0972693916fa69c5a9e29304f916e564a24fea90de3e55144d725a1eb"
+
+[[files]]
+file = "config/yosbr/config/invmove/vanilla.json"
+hash = "e2c5633901520e37f24995b2fd0f619af5cdb3fb6acd70e4a5ddd0f8f6c2a352"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "98c38a49f509a07b10341b7bec3c7b45f686cc24e47461804ae07fc5f5fe0db8"
+
+[[files]]
+file = "config/yosbr/config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/yosbr/config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/yosbr/config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/yosbr/config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "b1416bae49c61a1289ece4891b175aecb98168992e7c96c308a3281bea20b06e"
+
+[[files]]
+file = "config/yosbr/config/languagereload.json"
+hash = "4dca1e02ce97afa1da9f1f4681741dcf5f3e33cd4d14e035f226c651efa1483f"
+
+[[files]]
+file = "config/yosbr/config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/yosbr/config/loadmyresources/config.cfg"
+hash = "549a26b9b8ab9e2df0a427732a737c5dbcdb0b6790ad7ea9a387dea789abcad5"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "1d1bb1874d8b7116c41314633a95075675304bd6c205b8d8c5920730dcc6169e"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "f816ea1d030795eb370a0a35ab8946ca78ce29d6478660d2cb288c61331de031"
+
+[[files]]
+file = "config/yosbr/config/notenoughanimations.json"
+hash = "1ce156edd13da83bb8674fe0e9b91cbbdc3a4028baf7bea2bbaec2194412bfdd"
+
+[[files]]
+file = "config/yosbr/config/panorama_screens/settings.json"
+hash = "7688da256aa45808262ca17851a80e862511625009d6310e6f72e340c0f03564"
+
+[[files]]
+file = "config/yosbr/config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/yosbr/config/presencefootsteps/userconfig.json"
+hash = "311e13d45bab703bb1b6cc52993de1af60fa92a21095b237b8b57357c53b34ad"
+
+[[files]]
+file = "config/yosbr/config/showmeyourskin-server.json"
+hash = "483f1a0209c8509c1505b15bed44108ee57e8b233152dafa1be0311c686d941a"
+
+[[files]]
+file = "config/yosbr/config/showmeyourskin.json"
+hash = "3110931e58d023e990c9f985470f2f358c0313b295800382d682a44cd59e3032"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "3530a0237cedb203a0386c651ccedf4e82d7b4b18b5ee88e8104d3474f0f3548"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/yosbr/config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "17bbab9db49f16c702835c5a93a3889339d36ad4f5dc9479576a532cb013c754"
+
+[[files]]
+file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
+hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
+
+[[files]]
+file = "config/yosbr/config/stendhal/stendhal.properties"
+hash = "9475d8c3f0bc7d3f5c3083ff02d9e651b94fa19a2343b408642896b128b19f7a"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "1361b271e26744966b67253b87a81c67e737a91ea893533e51171dcd3e804a71"
+
+[[files]]
+file = "config/yosbr/config/titlefixer.toml"
+hash = "81976060b84a76619fe57f4356f5d6a4e4af3c89941d1ead7788701aebf06f9f"
+
+[[files]]
+file = "config/yosbr/config/toolstats.json"
+hash = "27a7daab8a6e86487fe1d019ffdf0411db6ea7438d99d6aa4d727094473857f9"
+
+[[files]]
+file = "config/yosbr/config/visuality.json"
+hash = "282b6485a2b98d6df6a35660a987fa68895d5ff49a60c6426a3efd06dbf94741"
+
+[[files]]
+file = "config/yosbr/config/waterdripsound.json"
+hash = "685a99fd2dcf1e391f89bda167e176ba17f622e31316fefc4fbad27e93506673"
+
+[[files]]
+file = "config/yosbr/config/waveycapes.json"
+hash = "f56a38d71c9212f81746bd93442939843ecb7db6f74f04b0626f82dfc2ad26fc"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap-common.txt"
+hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "36332a37b48545f73f069dad385e2a266672954fa0b3fa31644f40ec88ea6636"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "1a9bb48da5e4766134799b5c6d6afca50d52e7d849539f28a417f7369128c199"
+
+[[files]]
+file = "config/yosbr/config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap-common.txt"
+hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "ade8bae9622946a588ca5cd1b89dd8d6c5e158f69a9763131de805c75b03b53d"
+
+[[files]]
+file = "global_packs/required_data/Cobblemon_-_Insurgence_v1.0.zip"
+hash = "65435c6c33e4faee5a137b361ad90215a92a852d4710631db8df44dc21f00acc"
+
+[[files]]
+file = "global_packs/required_data/Create_Recipes_v1.zip"
+hash = "1ef0d2787ce1800c0c5b38ccd1fdb48f2466dba31bdacade0a3c1264311cb7ea"
+
+[[files]]
+file = "global_packs/required_data/DropRatesEdits_v0.4.1.zip"
+hash = "9f0970a7f6ec468b20f6d724c053e5141013a4dcda03af2d896425c2c65b2b10"
+
+[[files]]
+file = "global_packs/required_data/Extra Eeveelutions [Datapack] 1.0.3.zip"
+hash = "7601346a453236ca0df5e1a2f4097096b29fac549b0ef9c3c49884180f05a1b2"
+
+[[files]]
+file = "global_packs/required_data/MoreMons_v0.4.1.zip"
+hash = "3b2db48e6efa59e8e995e7edc064b4851a02a5873d8cba8a1f0e9b5ff78429b5"
+
+[[files]]
+file = "global_packs/required_data/QLAPS-NationalDex.zip"
+hash = "346d5c68d752f29df86b127e25fc8bf4b68948dac154cfe8be9ecc6e8bf6d39d"
+
+[[files]]
+file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
+hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
+
+[[files]]
+file = "global_packs/required_data/incendium-v5-1-4.zip"
+hash = "1960e3f9f6a58dde872566a854d09bdb38701ba13e51a0783d1dcb4a12935518"
+
+[[files]]
+file = "global_packs/required_data/nullscape-v1-2a.zip"
+hash = "cbddf71a36c83c357b4fbe5ef43c2ecdc7aced070c65135977281360aa449018"
+
+[[files]]
+file = "global_packs/required_data/pokenests_v2.0.zip"
+hash = "4c047b7f4fb807ce41be5f33cdb12ea8f2f2f1dee6378c1bd0914fb0993541ec"
+
+[[files]]
+file = "global_packs/required_data/structory-v1-3.zip"
+hash = "4ba3c13a472c508ae444c32e5e480037d371580263d24e6d619474157a5fe17e"
+
+[[files]]
+file = "global_packs/required_data/terralith-v2-3-5.zip"
+hash = "a08a0e43b677341d0ce2d9339c7f98a9dcebb749fd25ee3a80bb15167abf6c93"
+
+[[files]]
+file = "global_packs/required_data/universal-ctov-v3-1-2.zip"
+hash = "cf1e16bf152f9ae53be2b734cb30b08f1dd9d2695b6f634e6830ac28994457cc"
+
+[[files]]
+file = "mods/Create-Cobblemon-Fabric-v0.2.jar"
+hash = "0ad24186d43cbcaf585965e6f1cdeeca292586baff16017eab03c483481c0e3b"
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
+metafile = true
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "ce1fe1e69721bf56e277be993505956c88c3036e8d826a85eb83d9a3cf8305aa"
+metafile = true
+
+[[files]]
+file = "mods/audio-extension-for-fancymenu.pw.toml"
+hash = "dd183970fed4243fd0ce7859c71a9c129e3bfdddd572fe496facb43f9b8d51dd"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
+metafile = true
+
+[[files]]
+file = "mods/auudio.pw.toml"
+hash = "e8504c09fc7466033c4aa815bfc4a7002915c132c4e45d68e7d861263a13be72"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "d995fbc8df8eb912e605c199f7073cc37108f40be97b547ac70be8b89ef7a961"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "49323e1540fe35dd58946d577dfa9163df4b037eb6231916b1dd86c8204a7e84"
+metafile = true
+
+[[files]]
+file = "mods/bedrockify.pw.toml"
+hash = "023b30801f2ebd8ee78a071889b839afb25f750299577eb184d7f7c596f3edea"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
+metafile = true
+
+[[files]]
+file = "mods/better-end-sky.pw.toml"
+hash = "9d5eb5ff51dfc7123dfea318a027ec5fdf96ac9a29451367ce36cfcb88833679"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "60cb0d61b96d01cfc30dcbd38b43f74bc4a139bb0e57877afd5637eb5527f24c"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "9c44cf229440021ac7c42cd265fcec944fb002e2264c61688dfc21546bdaed5d"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "6cbd06b8908171c1fb79396acfc7f91f8c605c8718205ea9c1fe454ae2716094"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "14813a51c44e37a6db1df2cef9649369745788af302a292cc8e89c9664bb44d1"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mike-skills.pw.toml"
+hash = "52ccd8ba56365050f6558270d95147e81e13b1c867fefea732e18f9d9ed47bf3"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "272b13df72b20273dee42882fb856b7168a74db9f998935d6f239a2ddce982a5"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonextras.pw.toml"
+hash = "ae8ec99116430b4d186d31094288805716fb70048149d7fe482d068f2aee8802"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "994b81e8389f97f3cad1f1e6aceb833aeae5db46708cc3098363370345871be1"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "29c2af63ad11f040c4afe58ae941db3b58b165cc88d747ee418829e1ca9cbf0e"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "5c8ea25c304ea7d269abf6d95d3933c889c111ec33c865bc5031f2ea69aed617"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric-sodium-fix.pw.toml"
+hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "bc3e7df759825e0dc70052c6e62277535c2b7084fbc075f244f2b7ec27793d67"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+metafile = true
+
+[[files]]
+file = "mods/ctrl-q.pw.toml"
+hash = "ad2462959438c5181844602ff8489ff7397d87bf7dd1f42b6f9838cd66fc7bc9"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
+metafile = true
+
+[[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "42582bd75d2dcd2a329266ca655de19009b63b037fc605ce6d4fb79076322870"
+metafile = true
+
+[[files]]
+file = "mods/dripsounds-fabric.pw.toml"
+hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "1d7f6c2b43875ee8eaef6dbeede3a69767c5caac3deeafd99bc4559cd4cfa3d3"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "7342afdb096b81d2b0790860965757fd634b1d3257c376d8f2000b84cb5348ae"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "046f0770af4e350abfd3fc586708bf6be71305be8de9cf775b0af9742b6edee6"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-attack-indicator.pw.toml"
+hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "899685dcf62ea766b1bc17580eac543b72901fcc6e7854de9da9180b5974d460"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "fd954f7957b2e9b4be25004eb6956606ecf57d7ddfe96643af2579f024517daa"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+metafile = true
+
+[[files]]
+file = "mods/fastanim.pw.toml"
+hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/feytweaks.pw.toml"
+hash = "234b120426975554aa7f9e49788c7a3ddb0d32e538f4ca102791549dec23c42b"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "94e4884521c256740df7adbdaacb385a30262c0bc711e3af502dd42906a06f5d"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
+metafile = true
+
+[[files]]
+file = "mods/highlight.pw.toml"
+hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a20c1686761db7bb15ef63572ede9d721bc436585515220d49e426552977d690"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "527a18848a28afde3e9d71c07728de14b9c0597b2857e45a42fac6478de082a6"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
+metafile = true
+
+[[files]]
+file = "mods/invmove.pw.toml"
+hash = "881ad6ef91c24ce547c8062685cf361b1937b4162c8a238196c8106ef62ab15d"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "c5d5b857fa70cb5deed260054b9723dc8069635880061d5ba328e1eb684604bf"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "f150264c0991c3faa578a2669ccfb3964850f6d759acc84dad0b545abd9c8915"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "aa752298c14f248526b0ceab443cf01a2d4a933a2b73a3efaebc976a6d5fc973"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "df3bf405458a14ae114177c33956530f4fe98b2962b9446e9b7955c5e09dee17"
+metafile = true
+
+[[files]]
+file = "mods/load-my-resources.pw.toml"
+hash = "8356b377c0d753c4677adb9b8697ddd0f4c15cbfffde4dc053164c82bd280926"
+metafile = true
+
+[[files]]
+file = "mods/longer-chat-history.pw.toml"
+hash = "351b3a34eb34aa5170a8b3e68ca487a9bd10e522b9efe0c8492679df9f07cd42"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "2c75cc3e4cc3b09d7a62a42f79d4f5f0c867d06b1c792789097ba1ac41fca8c6"
+metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "6f608fc4e861f6156368b2a3b706645755030bf6a04dc1f59166c8b22cba872c"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "f395370c85fadafff7f793cd66a875c927c381320cfdb5a638ad3bc7b59fc01e"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "86a9c0b8a721fd8396af88c3b0a304f8cddaff42b7b27c192a5c88277664df9b"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "ac382724d3a8b53d26fdb752e5798c1544b36f8e8f0fe167e297d1e2032d7fcc"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "030992dda4ed112d764c1e0fbc0ecf3bfb9f2efb40ab91cc26155be7e3f8a98a"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "6e8f54238b405650aea8f045b138b86d13311fabe8bc0bbebd35f3844c9148e4"
+metafile = true
+
+[[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "02cb39845130cab24feca25f876d4a215948cb545db8e50e946fc08f9f3b0129"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/pack-it-up.pw.toml"
+hash = "520b84d7e0458a4ff53f00f610a3d040ac49df034706c99b14bae3b203160dea"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "c2fb8a64bc4610b7d026dc4cce78ad2a2f7264e5be4755849187e3caed5cac55"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/stendhal.pw.toml"
+hash = "f891cc32728a13dec5d8763f86b926498eb745b3bd80676120292bacd03e51ab"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "53c4c81ecb4dca2d0a1b0c8ac486360d92e108662a2b50e0c151281176974b12"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "dc896448d636334c53a9f57bfab50f6f0b39c558a998b9123c58db4e67ca2aa2"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+metafile = true
+
+[[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "b4d74624eb3790807e1d83734db2079cb020b8fbefb3822869d61742a79591ea"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "dd76a7b6505ebef5beefd48742509d31be1e232051bf08c32ccabbf88ae9d313"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "f79ac61306ede9d4037235e540fb6f9046a5fa20ef1b24b2639c6ca78addd165"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "b9ffba892e9f541bbffc0fc9dc4360732e9edeb7d2d4560191fc08e457c9d372"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "5ba962b883a36141ce3e505486d07fd30e49412fbcf8b523a81e3bb1b59bb5ba"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "6253563e28616a16656b12762f897d6007ab19d27e7330030bf9c5af65e3941b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "2bb58b3921466f6f40b48830415c2e8b6bdacd3b126706ff141014004dad815f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "bf6e15464cc97754591cb7265ac9402085813c06917f76d99cd79abc61ae5181"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "541635aaa48a5bfd27ab14ee5f760d35550a7d7f3083316feabeafc44c42b0bd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "717541277779ecae1980c5c62d1ad098c20d41a91e7d14927b86582e7e0914b1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "faffa81c972ce07df81b794c9e52c32b5111b73081eb64140fa01e9db239e409"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Better-Apricorn-Leaves-1.19.2.zip"
+hash = "1ee227c36aa04eb010f5fa3c990c6f170255a9fd771e36f0b28f9941ee14de5d"
+
+[[files]]
+file = "resourcepacks/Create+Style+Modded+Compats+v16.zip"
+hash = "c55adaae45cf72500999fa8763d7709bbdbecb6ade653c76586ee3be2eca30b6"
+
+[[files]]
+file = "resourcepacks/Crops-3D_MC1.19_v1.2.0.zip"
+hash = "a01a278edf7c5bc7464d378d8b6633e1d55508961d6fb32da8e5ec14477d4d9d"
+
+[[files]]
+file = "resourcepacks/Tomato Difference/assets/candlelight/lang/en_us.json"
+hash = "2a2f4ade05281933243f7c5172a8fee132949bbdc935bbe13099508dfa53e56e"
+
+[[files]]
+file = "resourcepacks/Tomato Difference/assets/farmersdelight/lang/en_us.json"
+hash = "d9bd03dace5ac2626c3dab2ecfdd9e706852b9205c9b746856e08483ec78bedc"
+
+[[files]]
+file = "resourcepacks/Tomato Difference/pack.mcmeta"
+hash = "fd31abf157d8a53d4701f20f85c0d4188a48495b286eb55ea354dedda6647ffa"
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "f5bf37ac402f55bf96f3fe37864ded76e93001902fda3c7c9b4e6a6ee5426d86"
+metafile = true
+
+[[files]]
+file = "resources/cm_audio/NorthProvince.ogg"
+hash = "c1be22d0e1012e55ad0573afb190fb9d19a08b570b1b55ec59c792e45961a41a"
+
+[[files]]
+file = "resources/cm_audio/SouthProvince.ogg"
+hash = "e1744d3e45f0a4d635f817e07b844595e2a76c41b8c4821427a2949a3c139c54"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/1.png"
+hash = "321c2995f8444f2e78db154e057bafca8b2b59de170378d2b91ad63fa600447c"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/10.png"
+hash = "321c2995f8444f2e78db154e057bafca8b2b59de170378d2b91ad63fa600447c"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/11.png"
+hash = "987142563ce694c8b13c5ee55ece795d1159aa84ae006fc27bb242115275bb34"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/12.png"
+hash = "737e964da91828e101fff9d9728671e09c2d3c31edccd2ada5f4bdc0dc750ba8"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/13.png"
+hash = "99f4257e001e7d878cc7d248d64b1b7015b424b3777dede2e7938388342e1241"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/14.png"
+hash = "89c44e3f420a5e9eb4d98bef8863404c4abcbd6dc8e2bd3483cd52185bf15538"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/15.png"
+hash = "f30f524bb3c1910392ac5dd9a59b2570f5309f5aa6ee2fb47cd42f7ecff2d1ef"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/16.png"
+hash = "b6f41c7a87e1b3d7f3eb018028590963b8c3426873972ef1ecdbfce861c6e763"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/17.png"
+hash = "f9322913bd43dffc3508b1de1b9c4aee64d18e8ac0a2257ca557ebf46e95c1ab"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/18.png"
+hash = "3e93922fbc465a289fac20eb2af10e93bc0dc9bc088350dc5ee0a2ae81fc786a"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/19.png"
+hash = "bed49cdf9db2c0c2f1502dbea15e51bfd05da6d3fc06728be04dc16fde4d397a"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/2.png"
+hash = "321c2995f8444f2e78db154e057bafca8b2b59de170378d2b91ad63fa600447c"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/20.png"
+hash = "dda8dceb73b2d51478eceb5be1f268e3a29001768bd5311ed963c1f1071501a2"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/21.png"
+hash = "f75544610eca6b7e24e6d61bc6778b154d06124c517902d5299dd7817e9c2d06"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/22.png"
+hash = "e770f439499ac3e5a7068282f46e382c0899f54111a06fd6f2067046d4423f1c"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/23.png"
+hash = "7e602f6cfe19ebe5690837b7c51a79e20dd32926dbdcc10ca16e039de7a2b516"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/24.png"
+hash = "7f4f0592fdae6b6347dc585035f4bc07a5d54aef4d77e381820212c42f3f3425"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/25.png"
+hash = "34450fedfc255d6af518a8ebd84111556f4089dc8ed4e9c5b99cec3cb59fa247"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/26.png"
+hash = "1ae7d7682b45ebd87a3eae2352b88fbde29e7f9fa02bd47f6f504f7fede97d9e"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/27.png"
+hash = "da76678c9efb39dff1a57f3ec48db7db35dfe317b468849f2874a353a66891f1"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/28.png"
+hash = "7e7a560a22b0524718a16a1c7c67c66ea771fae1e4670d9a9e11966eed56cdd5"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/29.png"
+hash = "e82c92eb680992cad12a3f951a5e5f43e817fc2a8c21e0efeb9df9e3dc4d56be"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/3.png"
+hash = "321c2995f8444f2e78db154e057bafca8b2b59de170378d2b91ad63fa600447c"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/30.png"
+hash = "71b110b811992958d9d1513f95b201abc6b9b89e2a4411d1568aa100b0849b7e"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/31.png"
+hash = "0c85272ad0d95aed2f7f27f59550e3120388c882b53b34688719fe61dc88bf28"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/32.png"
+hash = "c2698a8792c327c2596a4b085e702317798fefe4b66f967a2c50744960ea0b15"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/33.png"
+hash = "fd3f389a4bc84b0efe3cb8027bf27caab5a43aafcfa00229c3364ef152c97136"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/34.png"
+hash = "6f93756d6abcbd9a7b63f5d185981334836bd6503ed11e4068212d077f7d22b9"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/35.png"
+hash = "5f5e72b6ccaf02c85ae0b2a19f5929b99a8e8d63d1545ccfe15e79afc9cfa5fe"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/36.png"
+hash = "d03c4b3503c8e0dd54c9ec1f48cf93dd3a0698ddcd1df449c6bbb59ca72be48d"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/37.png"
+hash = "09f53b98cac4b901f645b96557640f5177a7ee4f52422cc852b25c45faf863da"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/38.png"
+hash = "63be23035a9f099d9c8b2e13c6ce7da5f21adcf9af45bd1575ed11def89b2362"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/39.png"
+hash = "8f4c0822e886bbc5422c4ddcbf6fb72c570d1c68badf0ee9bf52fd2042409421"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/4.png"
+hash = "321c2995f8444f2e78db154e057bafca8b2b59de170378d2b91ad63fa600447c"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/40.png"
+hash = "ac4e7cbfa86d33016185ba2c7d656878e7a1763269e79a772e80604ac3d9a53e"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/41.png"
+hash = "f9075cce048046e94ea911fa458903fa33b2c816d80cccf4b8550fcd56b663f4"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/42.png"
+hash = "0f5d2f10c2d1e6399ed28a68ec8ac798e04509bf4c97275e0715f0cbb76d4269"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/43.png"
+hash = "a2b020aaafa113a78d2289311bc56510ff2c67b80940152e4c3de8c0c295282f"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/44.png"
+hash = "d4f2efb421955dedc71911b4aa5e16af0342be894b2fe8a018223ff3ff4bff82"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/45.png"
+hash = "66d254765beade29910514c48b37e815c2b8aa23d8088f54c1292fede586a1e3"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/46.png"
+hash = "603f75a26acc64a67b2a6dd2ede530544578158f0f1cad05124e69396157accf"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/47.png"
+hash = "07e71bc12afa2f6dea12958db60936a89ff539defba1164f3ceb3f6b4f7c9f2e"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/48.png"
+hash = "a0bd2e33d0e0cb73549052ed73c15731296057ebccbfe4bf514e93b8a94c9872"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/49.png"
+hash = "89ae3f15a5b47aa202e8ad31bd4a88d3c8023d047f96d99dd19983574e600f6e"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/5.png"
+hash = "321c2995f8444f2e78db154e057bafca8b2b59de170378d2b91ad63fa600447c"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/50.png"
+hash = "e08be396ef89f7462aa85b23cf0a685b1e2f15ed3b05947ea94e4a636e577a06"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/6.png"
+hash = "321c2995f8444f2e78db154e057bafca8b2b59de170378d2b91ad63fa600447c"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/7.png"
+hash = "321c2995f8444f2e78db154e057bafca8b2b59de170378d2b91ad63fa600447c"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/8.png"
+hash = "321c2995f8444f2e78db154e057bafca8b2b59de170378d2b91ad63fa600447c"
+
+[[files]]
+file = "resources/cm_lapras/frames_intro/9.png"
+hash = "321c2995f8444f2e78db154e057bafca8b2b59de170378d2b91ad63fa600447c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/1.png"
+hash = "5097416bc6c981e8bb5eebfe6bfb4cbf39851e38ef65a66cf3afd1b982d871b3"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/10.png"
+hash = "25c325564ff5d0db29975dbdaf59b21dbd9fd06f580eaada23ff6833a27f2980"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/100.png"
+hash = "356ff89ba6bc47ed97227b0b7957996240feb071e8ff67a9d2cc0124504ed253"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/101.png"
+hash = "f52038bdb08a9d46317153980d65891162da4936e84f4f83e896880ee2d9d529"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/102.png"
+hash = "a61327a578e2b5cb5b782f3b0a8124ab386c1c04b9717445a9267b121b7c4f20"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/103.png"
+hash = "be29b0b26f0b38d887d3713221b03dba645faa6e9bacd367402a46c4bdf75fca"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/104.png"
+hash = "1dabd379e84366f24dcd52a297da914817b2b9f7b5df4ce486c3c319b0477ba2"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/105.png"
+hash = "a8cf17cd1325077a6914cbee8c0609406fcaf733108aced62208e14a2a8fcffd"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/106.png"
+hash = "14ffe250e9a624bf63f05b8b2b18290bc741923b3a89c734eca37a77ae7853ac"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/107.png"
+hash = "746d40531e91f7376fee30ff10c29ad6a014b49a8058eb46df7b40ead6072d84"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/108.png"
+hash = "e8bba77d4d2f53f3edea973dcad63086028c6db7eef0b9ab5ee8c13615b8fd2c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/109.png"
+hash = "22aee319113169b4c3039495af1d384eea5d6337d53c824ddad806ae0bd25e49"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/11.png"
+hash = "c12a7ae26dae3b80776c0bc633a7b8aade80292e97083dd5bb77d84f6e568c42"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/110.png"
+hash = "7c5afd58970b1e3a18bfd97d9130ba5a0354defd8e2ba752f47cb256971081d5"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/111.png"
+hash = "870b87e04bf3ea4330b03a56ef3b8524215f23e9bb3dc99bb5e8c20dcee17029"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/112.png"
+hash = "74ba256e2d69ad4d3d86cdfc509096fe93daa614417c65a0401e632c33356428"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/113.png"
+hash = "18cf87c15791844ea5f2ee0cf44af4dec872facb2bcb31b9dd7216e565fabfcf"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/114.png"
+hash = "9861790687503330ab204230aa7433d5f5528590a922499091c1e9c3620e9d0c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/115.png"
+hash = "bab57ae3402feac6dca8473ce047545ddc1047c1e0cd6169131104095a706f09"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/116.png"
+hash = "38628dbac598ddbfad61887b13122ef9bf7910c7bdc5aa0a904ff3c964dd4da8"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/117.png"
+hash = "fce152d1eca483540e042ca2da3c8db72b559926bc953d32fdf6704c1d32d88c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/118.png"
+hash = "8c8a2df749f3dbd0f842b878736a2caed901cb10636283bf1cb3fc59ea17cd96"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/119.png"
+hash = "cc88851c04a61f9ef7f7d2320b03699b9e7dc3e7fc392a58bae9b8aa836d61be"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/12.png"
+hash = "a098bfa22ce627b61a338bbde1da76b2d28fa5911312c6ff8b08d6a0b55ec4a9"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/120.png"
+hash = "08f48ccfb35aab40897baf02a1370559902b17c92bd52106a5b273c8b0bd630b"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/121.png"
+hash = "c7907397dc2eaaef8d88039d16a34a77f8982669ac1a669d8535ba972302dd25"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/122.png"
+hash = "29b2e0342f8f5177b052440a1a608e24c4ecea59641d0883d13d0e43f45ec7d7"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/123.png"
+hash = "5e275e79a86f405dd953cb1f9c3e312cabb57d9b5bf24686c7ecc29f76d336a5"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/124.png"
+hash = "a913fb4ce9315016f42520ee206385a292f0cf392ce9f07f14ba693e1d53e1d5"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/125.png"
+hash = "6e1d21ad62e335cd83596f9a620407818727276bb6c29ce78d4e7cc68e11a793"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/126.png"
+hash = "6b47eba0bf49a6085b2c75b3b42a0018a3f7ee78cd52837d6b014d68bc59eea7"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/127.png"
+hash = "4c894d65fc3584076c72b259de9fb94f8694d4f0893b095631a6ac46efda05a9"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/128.png"
+hash = "a71e91133e12e6cb046eb6aab4dcc332235ae22ff181f2840321b9e38de12b6f"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/129.png"
+hash = "2e1653c38791ec61f66b86978a5fa41ebd7d8a037cd6a971fd5def7488c96c7c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/13.png"
+hash = "3db06545e17dbe7af661fe54ce08ca903c4aac347565fb78f7653e3c00863d0c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/130.png"
+hash = "b90178ff5a77ce4b2ab7c0b71596dd993b8ff6eb2ccbd4ec673e3df6feb7016e"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/131.png"
+hash = "393381b4aff80fc4738d3cb9518ecbadba7d089e1f566c3cde1c2c89cf877ec7"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/132.png"
+hash = "b857a5464d34160aa0661bc84407416b2bcb8972685db040e445706cf2a8f6a6"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/133.png"
+hash = "cb15d83e84d05ea2d2cb4ade54869fb7c8db636d1d2ee5a94b22ecc5b4e45f4c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/134.png"
+hash = "4b39082dc4812d16c0bf024a7fe0dc1aafd873655869a5dde4590093924e68db"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/135.png"
+hash = "6b28b69d09840fdbec1ec5d5f367b4ea298cd0bd57c78ea859b73c7da07275dd"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/136.png"
+hash = "4b7fd7d8c4727463e80c93d3b6b0fc0df019bc146a9775f8a9402402be04a5ea"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/137.png"
+hash = "b70275730f98afb98dc74277677e17a473206a4e1f30d6f4c879ae80671ca0e0"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/138.png"
+hash = "575cff86632f02c46420597322854317c4251564771860bc78921a81e960c3e7"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/139.png"
+hash = "a8f9032b7c0b986abb5341b537043518e798d9ce565d861cbeb1b48dba08afe4"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/14.png"
+hash = "e69448af666e11e97c4ffd913466ef3a2c5a5779b0ed6374af7239c3fdb4615c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/140.png"
+hash = "8bfcf5aae954c8d2ac945745daef1871c58698cad3df749d1d85c2b0efa74f00"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/141.png"
+hash = "d61efca8d670bdef76b5999664b0994fc12639b0592bfa22c78f2d3656410860"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/142.png"
+hash = "ac0d71b502ad8ab655c35fbc2c3fbac0936f7cd75ae0ffabf23b4d559ab5f27b"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/143.png"
+hash = "7a6ec313683832a5c833bb78099b465cd62aaf79a48bf29513734dcb5efa09ac"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/144.png"
+hash = "d19982b0147caf4adc7ac2beb08e521ee4baae3ff0754f69cc47300371cacf47"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/145.png"
+hash = "b2f129175800aba2a0063567d81260c31a001a601c0ca6035aecccfbb6b9132f"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/146.png"
+hash = "3286efed383a90ff8b29fb6f4c5b47959a343301f13173a3ac36c802e8a50837"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/147.png"
+hash = "6c5c803e0356286c887bab872c4768d8479eb7b31ecd27110d64704b13af0d3c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/148.png"
+hash = "f981a5879c4538c428738dc781c01ff5424e76e1fd3904c2e3f1ee9f3793d4e0"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/149.png"
+hash = "c7f738a6f80ce80652021e9cf45a5bf795a38fa6f1ff9fdee8b49d2086f691fa"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/15.png"
+hash = "ac79a80ea18f00871e3c46ee862cda6b9581d9efdd372855e0de7649064a0409"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/150.png"
+hash = "15a3a8510b5574476fcf06aaea453e3ff7ddca82c2fdd77d2f4a111f06c5aa59"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/151.png"
+hash = "250f9aa825a209a3e4398f77e1fead80ad792cc2294b306c9b17b0e9a150c04a"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/152.png"
+hash = "79713190143e2db4cc4c10e248ba7bc120c3e12ff46275ca185eecd99b3347cc"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/153.png"
+hash = "31594cf8fe6bb6740ffa3b9f7889de8b70878739ab04f83ff1a99e80b35c3406"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/154.png"
+hash = "3b9985e577428c699350d3f24b2d1ea3771f24aba6d1f75038e57705fb125b08"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/155.png"
+hash = "1af053246f9a7aa512fdcad8178c30fda23e210bab47e868ea23fb1ea473bed5"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/156.png"
+hash = "65a11ccc13da6d54491fd618e81780509c72e42958f8dc95088661b7ea6e26d3"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/157.png"
+hash = "eb4343dac1e1ee4fa7c117ac907e4b77e02414e13689dedcccf71b2bd79e6919"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/158.png"
+hash = "b3668403a5fb4ad942daeda3afc79fedc8e8322942a0931eab1f876a3389cb8b"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/159.png"
+hash = "b8dd066fc2c61e0fc9b02b6e678f3941c5e560af568ea030fa68833a4792d562"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/16.png"
+hash = "b7c5598bb9ef8ce3f87d2a441164786e108e50c85ddfc65cc042c60615c455a8"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/160.png"
+hash = "a4330ac67b314fe90c5ea4858b0d51b8f73f9cf4812b650989690e5670381526"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/161.png"
+hash = "da8daee165f81e24a3e30499415e4c1b5e7870cca327244217e96a0ddae01a18"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/162.png"
+hash = "4d8caf4546a86390c7b625ade1ed818997917eb727601a10978cd80cdffb60ba"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/163.png"
+hash = "2449b00154dd6724628df4e764478c6945a16c139ec8170bd94a3e36e45076c9"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/164.png"
+hash = "3cd77626648fb9ce91bd09724535c5ee97e8257b3ff17ee4c249c85908b06139"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/165.png"
+hash = "bc7a60c760b69f68fdb26e6b354b50f9a039f257c14ada981601a6b27609df86"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/166.png"
+hash = "1497c109504cc2ad3c0cd12c3b2965c7c97c53579bb6464e7886c5af77b5927c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/167.png"
+hash = "da74e4f5d99e8858de4d9944c157fec6c7e0fa2c831ba41e1d19ea374ce17ab9"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/168.png"
+hash = "457f30216a8f7949331dfe300e8e3a0bfbe88dc79d4d51b846e3c1ef96159a11"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/169.png"
+hash = "9457ce2ec27636ffecbaacd9d7ca9aa1cb1b221c9b2b0f415bccbed20cb8dcd6"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/17.png"
+hash = "e15670d3a149d0f57299464e3ffcb45d7ecfdc2c050d7f89137036b4c95c774e"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/170.png"
+hash = "9000cff6234f24c4ed3b42f1e9095660d10febe0e9b8c6ef1cddcf43d3027406"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/171.png"
+hash = "e74cfbb47697752920a9ca7ef86ae13be7aace9904dfea6927c6143531da8051"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/172.png"
+hash = "daff5623e92e5f88b7fdbacdc62c6331673f050dbcbc5dad64835f766f5708b9"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/173.png"
+hash = "1ce413569a33095309faf1bb4d744ab85882dd72bd2466046eafa790cfe6c32f"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/174.png"
+hash = "38bf3e6de9b8bad097535b8561ed580d260dc51a5cea02c8dee9dd75cd78c685"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/175.png"
+hash = "3bc6a4152a02d4a45b31696bf272669b0d25c9d858253e14a6f20df2bbf48172"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/176.png"
+hash = "6950fd7cef8429f8804262b1f448815b53a834fdf8a9bc35d961158840f8974e"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/177.png"
+hash = "64a0b2a81a076e1dfeb4d829fa6075d03093ecfd79a8265e4a044e8581727aab"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/178.png"
+hash = "a11b109f33c41c77bdd026f9a2ecaca904c6f0e9611274c964cb2d564884f32b"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/179.png"
+hash = "ad5a1f584d4e4b52cc79279afbfd6ac031dc88bed5d188ac2dbb04f41a20a952"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/18.png"
+hash = "0bc1f1e1d2daabb4ae59613b9047b0b482676df5aa67fe997a4705904ec76620"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/180.png"
+hash = "3d9c1f0e42e24609ad853b36d72b242fafe7128c38faeca16c1965fd6098efca"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/181.png"
+hash = "3b727e921506548280bbbc9176f4d5c49d817af24edefcd0617ef57b2a603a6d"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/182.png"
+hash = "f4257575536dd88cbfb3f172062d52d7ce8bd24bf87a9d1ab1f466bdeb9aa2d6"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/183.png"
+hash = "a6d9ca0e23f4dabdd8431951daca5162c6472925c10f0b463eb2fa79d778fc43"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/184.png"
+hash = "657a183c394e3a6388295d78ef767c51d395385665384acf48117c83b13fed2f"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/185.png"
+hash = "b08c4eb937473689f9cf6d17aff1b3212987444577a0c6f4f32e9b1eba985539"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/186.png"
+hash = "7b2685f0533c600972d0210437dd76acf7e632ceca4d8338cd6973e37d171caf"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/187.png"
+hash = "c339d111cf5c3385a72da221b557db2bfd6174825f95ec5148b2c86c872f8d75"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/188.png"
+hash = "dc7b521d6ba635e5de3386c93aa70faef5ce8ef701aaabbfd44505b805a18bc0"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/189.png"
+hash = "2bb7c753203d48ce62cf9170c8434395e6f3e17173defa940651594b90dd2389"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/19.png"
+hash = "ce67f2fbf92e483f5b73420005b5bcc68b8afa6bedcedc4818edd1e9c881db50"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/190.png"
+hash = "32132193204e9c62ec89bda45616db5003f71ab272f5ad0f3acd8f13ce014480"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/191.png"
+hash = "42961069ff31edb1c9e5eb1821a6fa103dbc1112d1ff952bdc14df1f86bebbbf"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/192.png"
+hash = "6798fe39ba9288401b3736a2c268312169ffef62d3e52b2a614bd9afbc3bd1aa"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/193.png"
+hash = "4ab5943a88421a73e6a757eb58df05d886d41de3c87caa4ec682f13dccb96e73"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/194.png"
+hash = "c70f85165b208cbb9937cd07a0adc1df825f341829d041ac94610481c8e21ba5"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/195.png"
+hash = "f9954c378004e8732dd6ea658a6724c4fbb5bda9a003b79603b584c7062a4fcd"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/196.png"
+hash = "ae30d6e9298939ff891a2d8cd34163566e0b7ff314ac2a82ae3e00f294598a43"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/197.png"
+hash = "ab57ba5dcf576a6e1400c21ae4c04867ad61ec5a9b104df6c502f588af237e05"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/198.png"
+hash = "1d6c9d5a6d2a11c9593491065f9398093361097efa9ca001444ee2261196064a"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/199.png"
+hash = "9165db375b9102a4f0e934c7a36e33f6e55e8da64b82d7ac7303d0727342b00b"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/2.png"
+hash = "85509b22e24957833d7ed857444ef6855a3a30303c8cfd7401b8fd5656ee86cb"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/20.png"
+hash = "a6dbc3505dde05a338cc0d49f675ac0531ff441b3b1820feea86727e78b245a2"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/200.png"
+hash = "01be700b7635a43e08de50000300567549cebff213908870a328257a574bcdbf"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/21.png"
+hash = "2f61701905822f0424edfb8ac2f21908c84215e267c527c1bd1c6379810e51eb"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/22.png"
+hash = "7b83b43e9ff0a54644bc68345b2edaed0f6e6deb78ce2b8397f59a60681b1659"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/23.png"
+hash = "4cb92e9cbd3bf1a346cc2309b357844749db0021c342c29055f7584f0a437237"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/24.png"
+hash = "022f4284315f37d6e2e68f0759beb380b8ca42a8dca54440eddf0d1a2d90a64a"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/25.png"
+hash = "043eb0b816c70731253b3689e020303df8c0e0e9651979506ec0c588acfafb78"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/26.png"
+hash = "cd6b04840e75e7ff12bad98b0333beb19681abca9d499a45d0c55e5f45b49601"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/27.png"
+hash = "33888a1b6d3aaf0dfb84cc1295defac370d53d86bbed7103c24e703343c06ee5"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/28.png"
+hash = "88562c22aa3d5ec7a8941e93ba610f53e2d3efc25d96d1f2f08b3509d1dc574b"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/29.png"
+hash = "eb325a9465e369ff3c528811c6e51a08bfa9913b61ffd518b8c10624666275b4"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/3.png"
+hash = "1800ca7d63f27a95cf144e5fb99196362e4b3966cedbf324aa4257f991bcbb47"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/30.png"
+hash = "7c542dc2b78150604521499091c87cd98edf7bee7783839cae5984aaca6fa224"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/31.png"
+hash = "1bbb9a1c2ead06fd1d66bea039405928f5233b7772354c0f99c2ba65a394ce1e"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/32.png"
+hash = "ac5031ead1be33f4fdc642bd09c9ca4d4bc75df2a7a0b3835b95662b632af56d"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/33.png"
+hash = "9d5501cae4001af0168742c5e2c6efbac0c32c87bfc2fddc229fd975fb166372"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/34.png"
+hash = "4968b096d2b8c182cb6ad41d5e581a4ca9b5af0bb93241dc039bb7df14a7206c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/35.png"
+hash = "86db66b065139831a50c572c23f591d21e23f10171de616d82ac74db619065a5"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/36.png"
+hash = "68eed4b6c09155970993b6461c41c783d61ea13f222e3d5facc310e0b8771d95"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/37.png"
+hash = "5649debbb40f58f71519eabc9f262a14c8852d364bb66fde105d3ab768be0458"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/38.png"
+hash = "73bf4e2c2f60ab9c888fe4450d50d208ef8fcc6aaa95dcea75e28a6d10be527a"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/39.png"
+hash = "97e4ae6e4fc3c3eca20a4aaf464142e6675836c2ea2745560650be79c0e6d441"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/4.png"
+hash = "a4b7de6b7056060b1f3d5e8141e17298131ab396dc0248d4a15c279bff85e600"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/40.png"
+hash = "69347e8f89024b768fdf82ced8d6776e334c0dec7195478529fb363a511a41cc"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/41.png"
+hash = "8b29eb5859a31ad688e7352c260abba027ac28c25c7c6b33c5cfa99c189c70db"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/42.png"
+hash = "e90ab969d29d483633d573d9156256dedf32db35fecc389d64ad2cddd3455a63"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/43.png"
+hash = "5ecec499555357a9881661a6d4076b5645db7412d96b8a29363adeb49feeb6b5"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/44.png"
+hash = "69a100950dcf0ffaa87b0af1db06bf19c067e50d37c41ad21e83f67d0a55edbe"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/45.png"
+hash = "cbe0023e2ffb0b189675ee495a70e7d5f61557f51aa893301c557d27f89fc6ab"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/46.png"
+hash = "62954a7db2ff778d42c727e1e497a5b85a5d56216cdc7d0a880437224ac0d8f7"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/47.png"
+hash = "ad1b6c3917e46aa1404edf63a88d00685cf7c1c5e56790308182dda9df9e6f8d"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/48.png"
+hash = "cb4ae76049ab22f74a03382ecc99069f3332278a24af51d71015e3bbd3928aa2"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/49.png"
+hash = "a4cec2d8e1ca0019d8296a0383fff848471bef2a794ced127f3b7e0ad3abd3f6"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/5.png"
+hash = "2262ff40f092d11632b67bdfb968cd3f102b5a8cc455b66953c96e566e2dca09"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/50.png"
+hash = "3076a62da3d571fd4e0507432303cd6fda8a95717439dc24e47be272b3f50872"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/51.png"
+hash = "7e87f3d2c9ec524a8d1d223bdc5e2d101c2c9550cb86a8886ee516fcd808bdbd"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/52.png"
+hash = "cc5812eaa4b619b0edbd76483d1124773ab0f6d9e602cd2d658229ec40de4580"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/53.png"
+hash = "b7f8fd593acd394e6bd678c1cdb15b238c043e86bcb5faf1098a5003262c0a0a"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/54.png"
+hash = "9efe762f23015cea55abd6196b80c0b55e965d69237f0b596fb02c66e11f4c1a"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/55.png"
+hash = "872aaf9216299c2c137b3e85f70f447a2b14153c65288697eaf0e5042e457d0c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/56.png"
+hash = "a5eaf3e00264d2f5cc1610706ddead77e17261f12447a2aa84ce284d6d820167"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/57.png"
+hash = "0395d827b405076e692ec39b72743a93e772c869d07295fa63b89ef9e2746ffc"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/58.png"
+hash = "4e2f3c86f4a54932cd2918f7424d48d74141c6f217e4d6b29898668fdc369e9e"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/59.png"
+hash = "9e4136b85c1c7c698b2ef5ad037a176d4b0a0100b54c654428fa30a4d40cef10"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/6.png"
+hash = "1085810cd73bd1c6b38369e7675958615e9f140a93b12ed6d969213e16a97bc8"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/60.png"
+hash = "8e290a298c8ea091c8145e01869939658ad1550c96a61ccd56c4f411194b3bac"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/61.png"
+hash = "f9ba21a1becedae10653b36d3dc2bd0fd65ef7daa9f32971a0c063586fb94a5f"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/62.png"
+hash = "9028c332b0774842665c705f49bbbad00c709d7eebb0556a0545e0241e9d5de8"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/63.png"
+hash = "39ab6b4f301c16704f7b760b408dff21fb780ee2abbda87a60cfefce77c4c238"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/64.png"
+hash = "e1a34fa8810a6b1307185fd337c517b040b93777947ffeef2e86b6f7bb0f0108"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/65.png"
+hash = "db2beeb733ac78153299ce53395954185937c4dd94d120fdfd60e21b331b5735"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/66.png"
+hash = "f49fe85c61d7d20cfbda088890758cc291510fe46f674fa8911ccd7e5c22f663"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/67.png"
+hash = "afce96480f6fc99f748d0e2002fab6f43796b92e53236ec8f82a12c80059aa8c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/68.png"
+hash = "72d2b86e29377a6881c3eda81a69a897ef8cbf1243e14c405f15dd5120decf93"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/69.png"
+hash = "27b10e51b1db5cf93c55bb5661c34a77f73090bd6d9ceb30b4ab7a7468038a28"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/7.png"
+hash = "ca221c6dd33276f7d35fa4d4de64437541467293ab9157ac699c6e50afacf0e3"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/70.png"
+hash = "0f48d17d5b69328b59546931e3d8eb102fa57061af76b9d17016371ac0e9c968"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/71.png"
+hash = "f8e87b95e4999958525b16df01241c73e40946b3c5dae30a8d2960fa5861e54b"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/72.png"
+hash = "0156a0be266c23d19b78977012830db94ea03bd0b0e65b3e3adbbc4f11b42546"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/73.png"
+hash = "48bf15ddad43a53daf7b7df63d6ec315beefba8bd1eb5631c6a801b0598fa1e0"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/74.png"
+hash = "8066459761a5011103ce8e6534f1e2572ca8e12793742ea2845fe8d2e8d95c44"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/75.png"
+hash = "a0ab4a83f9589a05f67f1f0583afcfb64508da0c0eaee93f2ea21f2de57fc1e6"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/76.png"
+hash = "73a95c5b7e72d00fc4464a978be9b68facc249e2a354df7e6800eb3acd0ff66f"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/77.png"
+hash = "e5dcdb760642171d24aa8d7c66b80c664c141de80824f659d369033ac10b34de"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/78.png"
+hash = "2c65cc32257f62280d8b86a6a9f0e99d8cfd6ea961ca4ef24c7ae0da7595e45c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/79.png"
+hash = "e5311dea44e1df781348724be3a22a7cbb87f992b667f49225f8ac58759d225d"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/8.png"
+hash = "1e7fe9a174ef63d0a98bc56b6a5a4bee318f8a35bbb1652ecaa54faec0be8d1e"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/80.png"
+hash = "283267e7ce5c6954238605f6d7410b59b5515415824b04278172633cafd4152a"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/81.png"
+hash = "f422a475e3e79a655cd56692d199e7b227f68481822dc85b8f356b199fb33158"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/82.png"
+hash = "f09dae02269a0a0b0383b1c5cc7085cff2da11f2b7879272bd7f391d4d46346a"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/83.png"
+hash = "aafd458aa50e4f14261c7b312a4568b253ab8f4276f60eed2cc4a2c61c62618a"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/84.png"
+hash = "a1fab1859e41778eb65a8216a6991a3e72d17aec80a0c503149c78c07a701330"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/85.png"
+hash = "549f57ac8a1c63ef4c9dcc43519f63fb5d517e72e7f5b997eac4cdeee7399f5e"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/86.png"
+hash = "c7ab23cd5d765bcb31093fa9c72142ed8adea162429190e1c16f1948893ede35"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/87.png"
+hash = "c0b4435d3d30323432fef17061e06fa4b661d1c32c3848c381f34da5873be0aa"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/88.png"
+hash = "dbdf63fd1586b338bf7fd39ddf063fb61bf3b4c0f99702cedc8621038005deb1"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/89.png"
+hash = "ecbb6e971280df8c4b778dfe73bfea27c271378b8198a4411a6f923f496dfe4d"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/9.png"
+hash = "143857cc856e8d6327956069b957405ea354419f8980fc51215ced150da9d60f"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/90.png"
+hash = "556a72d3976958ce2ce2c635a17357b7c0ece0f12cbb63333bc2be057fdca216"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/91.png"
+hash = "92c42b056f6964737dab54f5e876979931b05b5205ff574d54f1070c6b82c24c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/92.png"
+hash = "47255d1bfe806260b46cd57c7c07425ead99dce79ec5b43ffd139044b7670fdd"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/93.png"
+hash = "4eb6fcb4a310e761b1fa8d1199de555db0a05bb3b8118e0ec74af201d1a5b40f"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/94.png"
+hash = "31d06e3976d91fa1f2a120a2d62d495acb36e4267dead711e191a32867edd09c"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/95.png"
+hash = "bd550c1f8a9e4b237163b1ff684a14af568442d24fffab41f8b69ba87e33104e"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/96.png"
+hash = "058950c086a2274574c95c185b8e41197aef55e9ab83724bbd3232a8f20ec448"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/97.png"
+hash = "9632ab3669c8f9a98dadf750223866b7725d2c5827b24e3e5fe03929a82f33d5"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/98.png"
+hash = "187158835bf88dadd3d7d0f107e75a2712d53eff98250dca6a0b8d924f4adace"
+
+[[files]]
+file = "resources/cm_lapras/frames_main/99.png"
+hash = "c205281b4222176d9cb5916be56a9694bb38eb966d36c22825fb49311c6aae09"
+
+[[files]]
+file = "resources/cm_textures/button.png"
+hash = "f77ffdfc9a2b55acd9e33d1ee6e3b1c8ac22fae1dacf8082a7743e15d32c12d6"
+
+[[files]]
+file = "resources/cm_textures/button_hover.png"
+hash = "60e4dcec92fbde857af8be4aef28cfc163a8ec35bd6e6785d47002da4ada4fb2"
+
+[[files]]
+file = "resources/cm_textures/cm_dive.png"
+hash = "a3d355e7b2297b6f730435867fded848af8cb2095c13c17f873bd3e24dd3b85e"
+
+[[files]]
+file = "resources/cm_textures/cm_dusk.png"
+hash = "935cce381552795a6fede245eea827f1e7e9171c92424d9912780376f661a57a"
+
+[[files]]
+file = "resources/cm_textures/cm_logo.png"
+hash = "c54186d0f0af0b907357331bf48be42771986626e863f7518328413ef998a581"
+
+[[files]]
+file = "resources/cm_textures/cm_menu.png"
+hash = "1d1990fab7062eb649ab6346d6e04e40033f17e242ddc7249107fd0acd7820f0"
+
+[[files]]
+file = "resources/cm_textures/cm_title.png"
+hash = "cadfa18909b2ac611b16b8a17828775d99cccd91d0e8cd4a5bd095bc27459d2b"
+
+[[files]]
+file = "resources/cm_textures/exit_button.png"
+hash = "feb2d7390e82b8aab9164d93fcdb2b5fe8fcbad43125841fd298924a356730aa"
+
+[[files]]
+file = "resources/cm_textures/exit_hover.png"
+hash = "e44273ad8fa51388d207a3e2663ec7bd1556258d53a15329e3aeb6a5ac95f246"
+
+[[files]]
+file = "resources/cm_textures/grad.png"
+hash = "69770622340aa93c64660afa73497b2480b07d56a854c839351095582b0100b4"
+
+[[files]]
+file = "resources/cm_textures/option_button.png"
+hash = "954c8d8ea541cc6a982f8fec808fb99f232025891d3f40d25d9bb695560a626e"
+
+[[files]]
+file = "resources/cm_textures/option_button_b.png"
+hash = "0e7eeeaf528bbb08a7fdb10f1defbde4afc2325a56edcd355c78a557ecda5be2"
+
+[[files]]
+file = "resources/cm_textures/option_hover.png"
+hash = "aac5f833c4b23925b6256d2c2c97d5eb0b8e73167ed7933453752e24ea2882a7"
+
+[[files]]
+file = "resources/cm_textures/option_hover_b.png"
+hash = "8c69ab0873627ae97014b892252befb3ef4caa47e3fbc60a5ee56621a7ccdac0"
+
+[[files]]
+file = "resources/cm_textures/scroll.png"
+hash = "f7bf06aa80f14c246dde8e5d7387317f3b21bfbc4f1d3620b9d10b4ac8bbaff0"
+
+[[files]]
+file = "resources/cm_textures/scroll_hover.png"
+hash = "e414a88912eee6f5110390ae079c258e609d6652099d21943e54612afd0e1ca6"
+
+[[files]]
+file = "resources/cm_textures/sliderback.png"
+hash = "da3a15e5b973369624ffa098a830f175383763476de426ee274fa021260d52ea"
